@@ -34,7 +34,7 @@ Your task is to reverse engineer this Android APK and **find the valid username 
 
 ## 📜 License
 
-MIT License (optional)
+MIT License 
 
 ---
 
